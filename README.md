@@ -27,7 +27,7 @@ Eventos
 Acesse a pasta do projeto.
 Abra o arquivo index.html no navegador
 ou acesse:
-
+https://leonardocostadeoliveira.github.io/Relogiodigital-nivel-basico/
 
 Não é necessário instalar dependências.
 
